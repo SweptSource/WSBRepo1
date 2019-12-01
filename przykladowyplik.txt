@@ -1,3 +1,5 @@
-przyklad 1
+przyklad 1234
 
-cos przeedytowalem
+cos przeedytowalem teraz conflict3
+
+i cos dodatkowego czego raczej nie ma na c1
