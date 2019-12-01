@@ -1,3 +1,5 @@
-przyklad 1
+przyklad 123
 
-cos przeedytowalem
+cos przeedytowalem to jest wersja conflict1
+
+dodatkowo w conflict1
